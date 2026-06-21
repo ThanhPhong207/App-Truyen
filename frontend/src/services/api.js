@@ -1,7 +1,7 @@
 // src/services/api.js
 const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-export const BASE_URL = isLocal ? 'http://localhost:3000/api' : 'https://app-truyen-backend.onrender.com/api';
-export const STORAGE_URL = isLocal ? 'http://localhost:3000' : 'https://app-truyen-backend.onrender.com';
+export const BASE_URL = isLocal ? 'http://localhost:3000/api' : 'https://app-truyen-hckg.onrender.com/api';
+export const STORAGE_URL = isLocal ? 'http://localhost:3000' : 'https://app-truyen-hckg.onrender.com';
 
 const getHeaders = () => {
   const token = localStorage.getItem('auth_token');

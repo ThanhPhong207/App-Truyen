@@ -10,8 +10,8 @@ import '../models/user.dart';
 
 class ApiService {
   // CONFIGURATION
-  static const String baseUrl = 'https://app-truyen-backend.onrender.com/api';
-  static const String baseStorageUrl = 'https://app-truyen-backend.onrender.com';
+  static const String baseUrl = 'https://app-truyen-hckg.onrender.com/api';
+  static const String baseStorageUrl = 'https://app-truyen-hckg.onrender.com';
 
   // Shared Preferences Keys
   static const String _tokenKey = 'auth_token';
