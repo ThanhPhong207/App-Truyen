@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "comicId": 1,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/one_piece_ch1.pdf"
+  },
+  {
+    "id": 2,
+    "comicId": 1,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/one_piece_ch2.pdf"
+  },
+  {
+    "id": 3,
+    "comicId": 1,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/one_piece_ch3.pdf"
+  },
+  {
+    "id": 4,
+    "comicId": 1,
+    "chapterNumber": 4,
+    "chapterPath": "/uploads/chapters/one_piece_ch4.pdf"
+  },
+  {
+    "id": 5,
+    "comicId": 1,
+    "chapterNumber": 5,
+    "chapterPath": "/uploads/chapters/one_piece_ch5.pdf"
+  },
+  {
+    "id": 6,
+    "comicId": 2,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/naruto_ch1.pdf"
+  },
+  {
+    "id": 7,
+    "comicId": 2,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/naruto_ch2.pdf"
+  },
+  {
+    "id": 8,
+    "comicId": 2,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/naruto_ch3.pdf"
+  },
+  {
+    "id": 9,
+    "comicId": 2,
+    "chapterNumber": 4,
+    "chapterPath": "/uploads/chapters/naruto_ch4.pdf"
+  },
+  {
+    "id": 10,
+    "comicId": 2,
+    "chapterNumber": 5,
+    "chapterPath": "/uploads/chapters/naruto_ch5.pdf"
+  },
+  {
+    "id": 11,
+    "comicId": 3,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/aot_ch1.pdf"
+  },
+  {
+    "id": 12,
+    "comicId": 3,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/aot_ch2.pdf"
+  },
+  {
+    "id": 13,
+    "comicId": 3,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/aot_ch3.pdf"
+  },
+  {
+    "id": 14,
+    "comicId": 4,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/demon_slayer_ch1.pdf"
+  },
+  {
+    "id": 15,
+    "comicId": 4,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/demon_slayer_ch2.pdf"
+  },
+  {
+    "id": 16,
+    "comicId": 4,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/demon_slayer_ch3.pdf"
+  },
+  {
+    "id": 17,
+    "comicId": 5,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/overlord_ch1.pdf"
+  },
+  {
+    "id": 18,
+    "comicId": 5,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/overlord_ch2.pdf"
+  },
+  {
+    "id": 19,
+    "comicId": 5,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/overlord_ch3.pdf"
+  },
+  {
+    "id": 20,
+    "comicId": 6,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/boruto_ch1.pdf"
+  },
+  {
+    "id": 21,
+    "comicId": 6,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/boruto_ch2.pdf"
+  },
+  {
+    "id": 22,
+    "comicId": 6,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/boruto_ch3.pdf"
+  },
+  {
+    "id": 23,
+    "comicId": 7,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/charlotte_ch1.pdf"
+  },
+  {
+    "id": 24,
+    "comicId": 7,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/charlotte_ch2.pdf"
+  },
+  {
+    "id": 25,
+    "comicId": 7,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/charlotte_ch3.pdf"
+  },
+  {
+    "id": 26,
+    "comicId": 8,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/cs_lieu_ch1.pdf"
+  },
+  {
+    "id": 27,
+    "comicId": 8,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/cs_lieu_ch2.pdf"
+  },
+  {
+    "id": 28,
+    "comicId": 8,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/cs_lieu_ch3.pdf"
+  },
+  {
+    "id": 29,
+    "comicId": 9,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/my_cute_deskmate_ch1.pdf"
+  },
+  {
+    "id": 30,
+    "comicId": 9,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/my_cute_deskmate_ch2.pdf"
+  },
+  {
+    "id": 31,
+    "comicId": 9,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/my_cute_deskmate_ch3.pdf"
+  },
+  {
+    "id": 32,
+    "comicId": 10,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/st_hoc_vien_ch1.pdf"
+  },
+  {
+    "id": 33,
+    "comicId": 10,
+    "chapterNumber": 2,
+    "chapterPath": "/uploads/chapters/st_hoc_vien_ch2.pdf"
+  },
+  {
+    "id": 34,
+    "comicId": 10,
+    "chapterNumber": 3,
+    "chapterPath": "/uploads/chapters/st_hoc_vien_ch3.pdf"
+  },
+  {
+    "id": 35,
+    "comicId": 11,
+    "chapterNumber": 1,
+    "chapterPath": "/uploads/chapters/chapter-1780575315287-399923271.pdf"
+  }
+]

@@ -1,0 +1,21 @@
+# Node modules and environment variables
+**/node_modules/
+**/.env
+*.log
+
+# Flutter / Dart build artifacts and cache
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+**/pubspec.lock
+
+# IDE settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "example@example.com",
+    "password": "$2a$10$NGCpQshC28Jzn4v3GXiRuuX1J0A0pOY05TQXiNV5y6F9CYOoSRbxC",
+    "role": "admin",
+    "createdAt": "2026-06-04T11:50:22.199Z"
+  },
+  {
+    "id": 2,
+    "email": "lephong",
+    "password": "$2a$10$R3z6dDtGSPnyhplI7dhB2.PNHudPVqR4wSTj5rNzTmUxgYNrQlIuC",
+    "role": "creator",
+    "createdAt": "2026-06-04T11:57:05.331Z"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "One Piece",
+    "thumbnailPath": "/uploads/thumbnails/one_piece.jpg",
+    "category": "Hành động",
+    "isFavorite": 1,
+    "creatorId": null
+  },
+  {
+    "id": 2,
+    "title": "Naruto",
+    "thumbnailPath": "/uploads/thumbnails/naruto.jpg",
+    "category": "Phiêu lưu",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan",
+    "thumbnailPath": "/uploads/thumbnails/aot.jpg",
+    "category": "Kinh dị",
+    "isFavorite": 1,
+    "creatorId": null
+  },
+  {
+    "id": 4,
+    "title": "Demon Slayer",
+    "thumbnailPath": "/uploads/thumbnails/demon_slayer.jpg",
+    "category": "Hành động",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 5,
+    "title": "Overlord",
+    "thumbnailPath": "/uploads/thumbnails/overlord.jpg",
+    "category": "Phiêu lưu",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 6,
+    "title": "Boruto",
+    "thumbnailPath": "/uploads/thumbnails/boruto.jpg",
+    "category": "Hành động",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 7,
+    "title": "Charlotte",
+    "thumbnailPath": "/uploads/thumbnails/charlotte.jpg",
+    "category": "hành động",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 8,
+    "title": "Chuyển Sinh Thành Liễu Đột Biến",
+    "thumbnailPath": "/uploads/thumbnails/cs_lieu.jpg",
+    "category": "Phiêu lưu",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 9,
+    "title": "My Cute Deskmate",
+    "thumbnailPath": "/uploads/thumbnails/my_cute_deskmate.jpg",
+    "category": "Phiêu lưu",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 10,
+    "title": "Hướng dẫn sinh tồn trong học viện",
+    "thumbnailPath": "/uploads/thumbnails/st_hoc_vien.jpg",
+    "category": "hành động",
+    "isFavorite": 0,
+    "creatorId": null
+  },
+  {
+    "id": 11,
+    "title": "cuoc phieu luu ki thu",
+    "thumbnailPath": "/uploads/thumbnails/cover-1780575132130-406890516.jpg",
+    "category": "Phiêu lưu",
+    "isFavorite": 0,
+    "creatorId": 2
+  }
+]
