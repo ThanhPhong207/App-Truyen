@@ -12,20 +12,36 @@ if (!fs.existsSync(serviceAccountPath) && fs.existsSync(serviceAccountPath2)) {
 
 let db = null;
 
-if (fs.existsSync(serviceAccountPath)) {
+if (process.env.FIREBASE_SERVICE_ACCOUNT) {
+  try {
+    const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+    admin.initializeApp({
+      credential: admin.credential.cert(serviceAccount)
+    });
+    db = admin.firestore();
+    console.log('==================================================');
+    console.log('  Firebase Firestore initialized from environment variable.');
+    console.log('==================================================');
+  } catch (err) {
+    console.error('==================================================');
+    console.error('  ERROR parsing FIREBASE_SERVICE_ACCOUNT environment variable:', err);
+    console.error('==================================================');
+  }
+} else if (fs.existsSync(serviceAccountPath)) {
   const serviceAccount = require(serviceAccountPath);
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
   });
   db = admin.firestore();
   console.log('==================================================');
-  console.log('  Firebase Firestore initialized successfully.');
+  console.log('  Firebase Firestore initialized successfully from file.');
   console.log('==================================================');
 } else {
   console.error('==================================================');
   console.error('  WARNING: Firebase config file NOT FOUND!');
   console.error(`  Please place your 'serviceAccountKey.json' in:`);
   console.error(`  ${serviceAccountPath1} OR ${serviceAccountPath2}`);
+  console.error('  OR set the FIREBASE_SERVICE_ACCOUNT environment variable on Render.');
   console.error('  The server will error on database queries.');
   console.error('==================================================');
 }
